@@ -23,3 +23,12 @@ Randomisation and lists
 ### Day-5
 
 Loops
+
+### Day-6
+
+Code blocks and functions
+for this day i used "Reeborgs World"
+
+### Day-7
+
+Hangman progect
