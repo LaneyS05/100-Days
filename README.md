@@ -32,3 +32,7 @@ for this day i used "Reeborgs World"
 ### Day-7
 
 Hangman progect
+
+## Day-8
+
+functions with inputs
