@@ -33,6 +33,10 @@ for this day i used "Reeborgs World"
 
 Hangman progect
 
-## Day-8
+### Day-8
 
 functions with inputs
+
+### Day-9
+
+dictionarys and nesting
