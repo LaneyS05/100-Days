@@ -40,3 +40,7 @@ functions with inputs
 ### Day-9
 
 dictionarys and nesting
+
+### Day-10
+
+functions with outputs
