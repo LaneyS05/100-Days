@@ -48,3 +48,7 @@ functions with outputs
 ### Day-11
 
 Blackjack project
+
+### Day-12
+
+Scope and number game
