@@ -6,11 +6,11 @@ Below is a map of my progress, detailing what I completed each day:
 
 ### Day-1
 
-simple print statements
+Simple print statements
 
 ### Day-2
 
-data types
+Data types
 
 ### Day-3
 
@@ -35,15 +35,15 @@ Hangman progect
 
 ### Day-8
 
-functions with inputs
+Functions with inputs
 
 ### Day-9
 
-dictionarys and nesting
+Dictionarys and nesting
 
 ### Day-10
 
-functions with outputs
+Functions with outputs
 
 ### Day-11
 
@@ -52,3 +52,7 @@ Blackjack project
 ### Day-12
 
 Scope and number game
+
+### Day-13
+
+Debugging
