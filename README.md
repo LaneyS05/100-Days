@@ -56,3 +56,7 @@ Scope and number game
 ### Day-13
 
 Debugging
+
+### Day-12
+
+Higher Lower Game Project
